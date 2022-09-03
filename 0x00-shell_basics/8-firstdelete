@@ -1,0 +1,4 @@
+#!/bin/bash
+cd root/tmp/my_first_directory
+rm betty
+
