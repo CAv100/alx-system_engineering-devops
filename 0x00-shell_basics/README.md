@@ -1,1 +1,1 @@
-this the first README file in this directory
+a script that prints the absolute path name of the current working directory.
